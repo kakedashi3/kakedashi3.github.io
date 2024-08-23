@@ -1,0 +1,15 @@
+{
+    "name": "Daijobu Test Collectible #1",
+    "description": "A one-of-a-kind digital asset on the Ethereum blockchain.",
+    "image": "https://kakedashi3.github.io/asset/1.png",
+    "attributes": [
+      {
+        "trait_type": "Accessory",
+        "value": "Earrings"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      }
+    ]
+  }

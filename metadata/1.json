@@ -1,7 +1,7 @@
 {
-    "name": "Daijobu Test Collectible #1",
-    "description": "A one-of-a-kind digital asset on the Ethereum blockchain.",
-    "image": "https://kakedashi3.github.io/asset/1.png",
+    "name": "Github.io NFT",
+    "description": "画像、メタデータ共に通常のWebサーバーに格納",
+    "image": "https://kakedashi3.github.io/asset/5.png",
     "attributes": [
       {
         "trait_type": "Accessory",

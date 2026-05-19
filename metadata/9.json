@@ -1,0 +1,15 @@
+{
+    "name": "NFT Assorted Collection #3",
+    "description": "NFT Assorted Collection",
+    "image": "https://kakedashi3.github.io/asset/k-3.png",
+    "attributes": [
+      {
+        "trait_type": "Accessory",
+        "value": "Earrings"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Red"
+      }
+    ]
+  }
